@@ -25,3 +25,19 @@ API ini menyediakan 5 endpoint utama untuk operasi CRUD:
   "pekerjaan": "Karyawan Swasta Dan Pelajar"
 }
 ```
+## Hasil Pengujian Endpoint (Postman)
+
+### 1. GET All Biodata (`200 OK`)
+![GET All Biodata](./gambar1%20(2).png)
+
+### 2. POST Tambah Biodata (`201 Created`)
+![POST Tambah Biodata](./gambar1%20(4).png)
+
+### 3. GET Detail Biodata (`200 OK`)
+![GET Detail Biodata](./gambar1%20(5).png)
+
+### 4. PUT Update Biodata (`200 OK`)
+![PUT Update Biodata](./gambar1%20(7).png)
+
+### 5. DELETE Hapus Biodata (`200 OK`)
+![DELETE Hapus Biodata](./gambar1%20(8).png)
